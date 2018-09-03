@@ -1,0 +1,19 @@
+Abstraction: Konsep penyederhanaan, level dari mana kita memandang.
+Analogi mobil. Abstraksi pengemudi biasa berbeda dengan teknisi. Pengemudi biasa tidak peduli cara kerja di dalamnya.
+
+3 Pilar OOP:
+1. Encapsulation (Enkapsulasi)
+2. Inheritance (Pewarisan)
+3. Polymorphism (Polimorfisme)
+
+Enkapsulasi adalah konsep dimana kita membungkus kode (variable dan fungsi) program kita dalam satu kesatuan, supaya lebih teroganisir.
+Constructor diimplementasikan ketika kita ingin mengisi data dari variable object kita ketika baru dibuat.
+
+Method setter dan getter hadir ketika kita membahas enkapsulasi dimana variable-variable dalam class kita dibuat private, sehingga ketika kita ingin mengakses nya kita membutuhkan method getter dan setter. Method setter untuk menge-set nilai nya, method getter untuk mengambil nilainya.
+
+Inheritance atau pewarisan adalah proses dimana class ini dapat mewarisi/menggunakan variable-variable atau method dari class lain. Class yang diambil sifat nya disebut SUPERCLASS. Yang mewarisi disebut CHILD CLASS. Kita menggunakan kata kunci `extends`. Bisakah Inheritance di HTML?
+
+Polimorphism sebuah konsep dimana kita bisa melakukan suatu action dengan cara-cara yang berbeda. Handling different data types using the same interface.
+
+Class is like a blueprint that have states and behaviours.
+Object merupakan instance / perwujudan dari suatu class.
