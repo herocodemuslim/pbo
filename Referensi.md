@@ -18,6 +18,8 @@
 
 - [Belajar Java OOP: Memahami Tingkatan Akses Member dan Class (Modifier)](https://www.petanikode.com/java-oop-modifier/)
 
+- [Java Access Modifier](https://www.tutorialspoint.com/java/java_access_modifiers.htm)
+
   
 
 ## COURSES
